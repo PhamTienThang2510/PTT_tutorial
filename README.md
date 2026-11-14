@@ -11,7 +11,7 @@ Requires Unity 6 (6000.0+) with uGUI and TextMeshPro.
 Pick one:
 
 - **Git URL**: Package Manager › **+** › *Add package from git URL…*
-  `https://github.com/<account>/PTT_tutorial.git#1.0.0`
+  `https://github.com/PhamTienThang2510/PTT_tutorial.git#1.0.0`
 - **Local folder**: Package Manager › **+** › *Add package from disk…* › select `package.json`.
 - **Tarball**: Package Manager › **+** › *Add package from tarball…* (made with *Export* / `npm pack`).
 
