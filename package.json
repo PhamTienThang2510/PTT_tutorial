@@ -1,0 +1,19 @@
+{
+  "name": "com.ptt.tutorial",
+  "version": "1.0.0",
+  "displayName": "PTT_tutorial",
+  "description": "Step-by-step UI tutorials: dims the screen, lifts the focused button above the overlay and shows a tooltip with an arrow. Buttons and sequences are identified by string IDs picked from a per-project TutorialIDDatabase.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": ["tutorial", "onboarding", "ui", "tooltip", "mask"],
+  "author": { "name": "PTT" },
+  "samples": [
+    {
+      "displayName": "Main Menu Demo",
+      "description": "A main menu with a 4-step tutorial (welcome, Daily, Shop, Play), plus the builder that creates the scene.",
+      "path": "Samples~/MainMenuDemo"
+    }
+  ]
+}
